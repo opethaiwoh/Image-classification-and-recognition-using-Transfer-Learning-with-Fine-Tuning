@@ -1,4 +1,4 @@
-# Image-classification-and-recognition-using-Transfer-Learning-with-Fine-Tuning
+# Image-classification-and-recognition-using-Transfer-Learning
 Using a CNN pre-trained on the ImageNet dataset and fine-tune it to perform image classification and recognize classes it was never trained on.
 
 ## Fine-tuning a convolutional neural network (CNN) involves a strategic, multi-step procedure designed to adapt a pre-trained model for a specific task without compromising the integrity of previously learned features. The process includes:
